@@ -6,6 +6,8 @@
 4. Plots best fit model on data
 5. Saves plot in ../output
 
-Per lanciare lo script: 
-ipython --pylab
-run loglumfit
+Per lanciare lo script:
+
+  ipython --pylab
+  
+  run loglumfit
